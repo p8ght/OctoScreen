@@ -122,4 +122,5 @@ License
 
 GNU Affero General Public License v3.0, see [LICENSE](LICENSE)
 
-This project is a hard fork from [Octiprint-TFT](https://github.com/mcuadros/OctoPrint-TFT) created by [@mcuadros](https://github.com/mcuadros/OctoPrint-TFT)
+This project is a hard fork from [ Z-Bolt /
+OctoScreen](https://github.com/Z-Bolt/OctoScreen)
